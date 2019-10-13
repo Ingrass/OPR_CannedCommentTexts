@@ -1,10 +1,10 @@
-// ==UserScript==
+ï»¿// ==UserScript==
 // @name         OPRcommentTextInput
-// @description    §ó·s«e½Ğ°O±o³Æ¤À§Aªº¤å¦r! Be sure to backup your "texts" setting be updating!
+// @description    æ›´æ–°å‰è«‹è¨˜å¾—å‚™åˆ†ä½ çš„æ–‡å­—! Be sure to backup your "texts" setting be updating!
 // @version      1.6
 // @namespace    sdfgsdfgerverververververv
-// @updateURL      
-// @downloadURL    
+// @updateURL      https://github.com/Ingrass/OPR_CannedCommentTexts/raw/master/OPRcommentTextInput.user.js
+// @downloadURL    https://github.com/Ingrass/OPR_CannedCommentTexts/raw/master/OPRcommentTextInput.user.js
 // @author       lokpro
 // @match        https://opr.ingress.com/recon*
 // @include     https://wayfarer.nianticlabs.com/review*
