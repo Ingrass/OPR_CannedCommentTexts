@@ -42,10 +42,10 @@ for( var i=0; i<texts.length; i++ ){
 
 var textBoxes = document.querySelectorAll(".comments-card > .card__body");
 
-var buttons = document.getElementsByClassName("cannedCommentsButton");
-
 textBoxes[0].insertAdjacentHTML("beforebegin", "<div class='center' style='text-align: center'>" + html_textButtons + "</div>");
 textBoxes[1].insertAdjacentHTML("beforebegin", "<div class='center' style='text-align: center'>" + html_textButtons + "</div>");
+
+var buttons = document.getElementsByClassName("cannedCommentsButton");
 
 for (var i=0; i<buttons.length; i++ ) {
 
